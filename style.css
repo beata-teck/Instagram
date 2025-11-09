@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+#background{
+    height: 95%;
+    width: 95%;
+    background-color: white;
+    border-radius: 15px;
+}
+#profileInfo{
+    width: 80%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+ }
